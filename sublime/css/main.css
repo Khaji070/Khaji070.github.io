@@ -189,11 +189,6 @@ header{
     height: 125px;
 }
 
-header .logo{
-    float: left;
-    margin-top: 50px;
-}
-
 header nav{
     float: right;
     margin-top: 57px;
@@ -303,9 +298,6 @@ header.dark nav ul li a:hover{
     -o-background-size: cover;
 }
 
-.video .video_logo{
-    margin-top: 85px;
-}
 
 .video h3{
     color: #fff;
